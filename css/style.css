@@ -134,8 +134,11 @@ header {
     height: 375px;
     padding: 75px 60px 45px 60px;
     background-color: #FFFFFF;
-    margin-right: 45px;
     margin-top: 45px;
+}
+
+.size {
+    margin-right: 45px;
 }
 
 .box-icon {
